@@ -21,4 +21,12 @@ Using Python, we perform data cleaning, exploratory data analysis (EDA), and gen
 - Handled missing values, removed duplicates, fixed datatypes.
 - Created new columns like Total funded amount, Total amount received, Average interest rate.
 ## Exploratory Data Analysis (EDA)
- 
+- Analyze loan amount, interest rate, funded amount, and income levels distribution.
+- Compare relationships between loan status and variables such as loan amount, interest rate, and DTI ratio.
+## Correlation Analysis
+## Questions and Key (KPIs)
+
+## Project Insights
+- Identify high-risk borrower segments based on DTI or credit score.
+- Determine top factors influencing loan default or approval.
+## Final Conclusion
