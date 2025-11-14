@@ -1,5 +1,17 @@
 # 🏦 Bank Loan Analysis (Python)
 Comprehensive analysis of bank loan performance and borrower behaviour using Python for data processing 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Data used](#data-used)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Questions and key (KPIS))](#questions-and-key-kpis)
+- [Visualization Insights](#visualization-insights)
+- [Project Insights](#project-insights)
+- [Final Conclusion](#final-conclusion)
+
 ## Project Overview
 The Bank Loan Analysis project provides an end-to-end analysis of bank loan data to understand lending performance, repayment patterns, and borrower risk levels.
 Using Python, we perform data cleaning, exploratory data analysis (EDA), and generate visual insights that help financial institutions make data-driven decisions.
@@ -31,7 +43,7 @@ Using Python, we perform data cleaning, exploratory data analysis (EDA), and gen
    - Average Interest Rate: 12.05% (Indicates the average cost of borrowing for applicants.)
    - Average Debt-to-Income Ratio (DTI): 13.33% (Reflects borrower financial stability and repayment capacity)
 - The correlation heatmap highlights the relationship between homeownership status and the total funded amount, showing how loan disbursement varies across different ownership categories.
-## Questions and key(KPIS)
+## Questions and key (KPIS)
 - What is the total funded amount and total amount received by the bank?
 - What is the monthly trend of funded amount and amount received (MTD)?
 - What is the loan approval rate across gender, property area, and credit history?
@@ -44,6 +56,7 @@ Using Python, we perform data cleaning, exploratory data analysis (EDA), and gen
 - Count of approved vs. rejected loans
 - Relationship between credit history and loan approval rate
 - Average income vs. loan approval trend
+- [Data Visualization](https://github.com/Farzana-Begum/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20(2).ipynb)
 ## Project Insights
 - Repayment patterns show strong borrower discipline and stable cash flow.
 - Strong overall repayments reflect high borrower credibility.
